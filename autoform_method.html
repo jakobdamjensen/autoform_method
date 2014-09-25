@@ -11,7 +11,9 @@
 <template name="hello">
     {{#autoForm schema="TestSchema" id="test" type="method" meteormethod="insertdata"}}
         {{> afQuickField name="title"}}
+
+        <button type="submit">submit inside</button>
     {{/autoForm}}
 
-    <button id="submitButton">submit</button>
+    <button id="submitButton">submit outside</button>
 </template>

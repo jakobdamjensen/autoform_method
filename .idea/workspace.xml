@@ -23,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="autoform_method.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="autoform_method.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autoform_method.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="345">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.16509435" vertical-offset="0" max-vertical-offset="1272">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autoform_method.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="autoform_method.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoform_method.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.023148147" vertical-offset="0" max-vertical-offset="1296">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
               <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/autoform_method.html" />
         <option value="$PROJECT_DIR$/autoform_method.js" />
+        <option value="$PROJECT_DIR$/autoform_method.html" />
       </list>
     </option>
   </component>
@@ -170,18 +170,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/autoform_method.html">
+    <entry file="file://$PROJECT_DIR$/autoform_method.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="345">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoform_method.js">
+    <entry file="file://$PROJECT_DIR$/autoform_method.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023148147" vertical-offset="0" max-vertical-offset="1296">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.16509435" vertical-offset="0" max-vertical-offset="1272">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding />
         </state>
       </provider>
