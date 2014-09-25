@@ -1,0 +1,17 @@
+<head>
+  <title>autoform_method</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+    {{#autoForm schema="TestSchema" id="test" type="method" meteormethod="insertdata"}}
+        {{> afQuickField name="title"}}
+    {{/autoForm}}
+
+    <button id="submitButton">submit</button>
+</template>
