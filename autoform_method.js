@@ -15,7 +15,7 @@ if (Meteor.isClient) {
   });
 
   Template.hello.events({
-    'click button': function (e, template) {
+    'click button#submitButtonOutside': function (e, template) {
       // increment the counter when button is clicked
       template.find("form").submit();
     }
